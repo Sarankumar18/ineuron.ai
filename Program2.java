@@ -6,6 +6,7 @@ public class Program2 {
 		// TODO Auto-generated method stub
 		for(int i =1; i<=4;++i) {
 			System.out.println(i +"" +  i +  i + i);
+			System.out.println();
 		}
 
 	}
